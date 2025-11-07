@@ -1,0 +1,13 @@
+Package: g8way-virt-manager-icon
+Version: 1.0.0-1
+Architecture: all
+Maintainer: Stadiam94 <user@g8way-os.com>
+Depends: virt-manager
+Filename: ./g8way-virt-manager-icon_1.0.0-1_all.deb
+Size: 90202
+MD5sum: 87bcf7daad6d376e913507d8e4750796
+SHA1: f877ebcf87e3b50877908a3c009bc2af6821b0ec
+SHA256: 2936d46e40a22dd196c21e9e298d3d6744c6fc1aa1ac2f2ddba4270ff5b9b4e7
+Description: Replaces the default Virt-Manager icon with the G8Way GTAV Playthrough logo.
+ This is a custom branding package for G8Way OS.
+
